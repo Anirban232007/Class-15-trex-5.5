@@ -18,7 +18,7 @@ function preload(){
   groundImage = loadImage("ground2.png");
   resetImg = loadImage("restart.png")
   cloudImage = loadImage("cloud.png");
-  gameoverImg= loadImage("GameOver.png")
+  gameoverImg= loadImage("gameOver.png")
   obstacle1 = loadImage("obstacle1.png");
   obstacle2 = loadImage("obstacle2.png");
   obstacle3 = loadImage("obstacle3.png");
